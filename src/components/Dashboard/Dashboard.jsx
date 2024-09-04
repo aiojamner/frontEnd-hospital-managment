@@ -5,7 +5,10 @@ import Sidebar from '../Common/Sidebar';
 
 const Dashboard = () => {
     return (
-        <div><Sidebar/></div>
+        <div><Sidebar/>
+        <h1>new</h1>
+        </div>
+
 
     )
 }
